@@ -37,6 +37,9 @@ gem 'sprockets', '2.11.0'
 # Use SCSS for stylesheets
 gem 'sass-rails'
 
+# Adding devise gem for user authentication
+gem 'devise', '>= 3.2.4'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
