@@ -52,6 +52,9 @@ gem 'figaro'
 # Carrierwave to Amazon
 gem "fog", "~> 1.3.1"
 
+# Image resolution resizing
+gem 'mini_magick', '~> 4.3.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
