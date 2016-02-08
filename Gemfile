@@ -55,6 +55,9 @@ gem "fog", "~> 1.3.1"
 # Image resolution resizing
 gem 'mini_magick', '~> 4.3.1'
 
+# Adding Video uploading feature
+gem 'carrierwave-aws'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
