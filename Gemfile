@@ -58,6 +58,9 @@ gem 'mini_magick', '~> 4.3.1'
 # Adding Video uploading feature
 gem 'carrierwave-aws'
 
+# Adding Credit Card Payment feature
+gem 'stripe'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
