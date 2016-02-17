@@ -61,6 +61,9 @@ gem 'carrierwave-aws'
 # Adding Credit Card Payment feature
 gem 'stripe'
 
+# Allow reordering of items within the database by users
+gem 'ranked-model'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
